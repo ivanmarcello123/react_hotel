@@ -1,0 +1,35 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "The Kubu Hotel",
+      "img": "https://lh5.googleusercontent.com/proxy/2TDe1LxqUVR4JtXWJNQQftIZXKXY5KeX4FTRYEdY4PMHe_YqbEr9BmrAisnjnos2Dp5wnHaeyXenqhzauyDfUEQvq5KBvMsiCHBrdoUgeacZql9SQB6BNkpZmKngFHC-OxwlvuoI8CPWdRnzORuBmBJ2u7bZ5hE=w154-h80-n",
+      "price": "Rp300k/Night"
+    },
+    {
+      "id": "2",
+      "name": "Bali Summer Hotel",
+      "img": "https://lh4.googleusercontent.com/proxy/RzFsjTFVu-9Oc5W4O2YyXyOxYVWQZsdLcNjWWu-mNCsJlHVTbh5xXtdREF1BlGch1bFoxes2D5rsQ7aHGg5aJfkrGYFNkhULrs4FpqPFLba7nGoo0WLmM8SbI-rlfqt_a0M5ViMmck4NyN1xtsz_D6U8J3xE7Q=w154-h80-n",
+      "price": "Rp325k/Night"
+    },
+    {
+      "id": "3",
+      "name": "The Kayana Seminyak Bali",
+      "img": "https://lh4.googleusercontent.com/proxy/JB_j-ZYvLOeyiv2UIUN2d_alujtL9om41UxjkWK8MJGVqoL2LSf_Ep8GVDDp18Xn6VjiqyMiTb9p1bXy_jAYY33Jql5b5RRTP9UXPo_ksABCXLDfh_5C7C-LHPLlAvkYvfsmKrqWonMH19v8mm2QqSR2uSZktbo=w154-h80-n",
+      "price": "Rp3200k/Night"
+    },
+    {
+      "id": "4",
+      "name": "Atanaya Hotel",
+      "img": "https://lh6.googleusercontent.com/proxy/5S5u-N_qXl7gSHbhIzrqau7ve72-FOkjX0EYA8JmUhW5Htxx6T1wQXgqUwJCUV7_yWTlD7gdmArYnXiMzqEaDyJ3UBmy1TIJfKp-8-ULVgazBsCDyTfik2gkC4E9x1yOANWDbqKdVFHuloaF3JRXvocuOa0WYQ=w154-h80-n",
+      "price": "Rp500k/Night"
+    },
+    {
+      "id": "5",
+      "name": "The Amala Hotel",
+      "img": "https://lh5.googleusercontent.com/proxy/1dOgVffxmJq1vwGrgzXVdaJMA5F3CRsNTTGjjFJT2HlmMcbVOCFMog7Tr8XGVr78i5lgq5rwMPlJLN7ObCrS8EwhxTMg7HAWXVfKbXlX0K_NfzxTpi0OCk7PH4tiWcvg10S4ubcUfDIKOL6CJXkXg-yuml32iC4=w154-h80-n",
+      "price": "Rp3000k/night"
+    }
+    
+  ]
+}

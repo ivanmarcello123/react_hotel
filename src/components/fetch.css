@@ -1,0 +1,39 @@
+.container{
+    /* width: 20%; */
+    margin: 25px;
+    display: inline-grid;
+    grid-template-row: repeat(auto-fit,minmax(150px, 1fr));
+    /* grid-template-row: repeat(3, 1fr); */
+    grid-gap:2rem;
+
+    /* display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; */
+}
+.box{
+    border: 2px solid black;
+    text-align: center;
+    /* height: 100px; */
+    border-radius: 2px;
+}
+
+
+.box img{
+    height: 200px;
+    width: 265px;
+}
+
+
+.delete-btn{
+    background: blue;
+    color: white;
+    cursor: pointer;
+    height: 25px;
+    
+}
+
+.button-container {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+}
